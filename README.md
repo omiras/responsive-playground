@@ -3,6 +3,7 @@
 ## Variables CSS
 - Utiliza una [variables CSS](https://www.w3schools.com/css/tryit.asp?filename=trycss3_var2) para almacenar el color principal. Úsalo para el borde y el encabezado de la tarjeta
 
+
 ## Media queries
 Crea dos media queries 
 
