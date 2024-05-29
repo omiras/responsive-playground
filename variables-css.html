@@ -6,11 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarjeta de Presentación</title>
     <style>
+        :root {
+            --primary: #007bff;
+        }
 
         .card {
             background-color: #f0f0f0;
             color: #333333;
-            border: 2px solid #007bff;
+            border: 2px solid var(--primary);
             border-radius: 8px;
             padding: 20px;
             width: 300px;
@@ -21,24 +24,12 @@
         }
 
         .card h1 {
-            color: #007bff;
+            color: var(--primary);
             margin-bottom: 10px;
         }
 
         .card p {
             margin: 5px 0;
-        }
-
-        .theme-light {
-            --background-color: #ffffff;
-            --text-color: #333333;
-            --accent-color: #007bff;
-        }
-
-        .theme-dark {
-            --background-color: #333333;
-            --text-color: #ffffff;
-            --accent-color: #ff9900;
         }
     </style>
 </head>
