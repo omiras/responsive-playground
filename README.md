@@ -12,3 +12,4 @@ Crea dos media queries
    2. El contenido del articulo debe colocarse [en dos columnas](https://www.w3schools.com/cssref/tryit.php?filename=trycss3_column-count)
 
 2. La segunda debe aplicarse cuando alcanzamos al menos 992px de viewport width. Hay que aumentar el tamaño de la fuente de todo el body a 1.3rem
+
